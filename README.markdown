@@ -177,5 +177,3 @@ This executes unit tests for task creation, listing, and error handling.
 For further assistance, refer to the [FastAPI documentation](https://fastapi.tiangolo.com/) or contact the repository maintainer.
 
 ---
-
-**Happy Coding! 🚀**
